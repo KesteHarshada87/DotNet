@@ -1,0 +1,80 @@
+@* 
+@page
+@model CRLproject.Pages.customers.index
+@{
+    ViewData["Title"] = "Customers List ";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <div> 
+    <table class="table"> 
+        <thead> 
+            <tr> 
+                <th>Id</th> 
+                <th>Name</th> 
+                <th>Email</th> 
+                <th>Phone</th> 
+            </tr> 
+        </thead> 
+        <tbody> 
+            @foreach (var customer in Model.listCustomers) 
+            { 
+                <tr> 
+                    <td>@customer.Id</td> 
+                    <td>@customer.Name</td> 
+                    <td>@customer.Email</td> 
+                    <td>@customer.Phone</td> 
+                </tr> 
+            } 
+        </tbody> 
+    </table> 
+</div> 
+</div> *@
+
+
+@page
+@model CRLproject.Pages.Customer.IndexModel
+@{
+    ViewData["Title"] = "Customers List";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var customer in Model.listCustomers)
+            {
+                <tr>
+                    <td>@customer.Id</td>
+                    <td>@customer.Name</td>
+                    <td>@customer.Email</td>
+                    <td>@customer.Phone</td>
+                    <td>
+                       <td>
+    <a asp-page="/Customer/Edit" asp-route-id="@customer.Id" class="btn btn-primary">
+        Edit
+    </a>
+
+    <a asp-page="/Customer/Delete" asp-route-id="@customer.Id" class="btn btn-danger">
+        Delete
+    </a>
+</td>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
