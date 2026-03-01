@@ -1,0 +1,36 @@
+@page
+@model Student_Managment_System.Pages.Courses.IndexModel
+
+<h2>Courses List</h2>
+
+<a href="/Courses/Create" class="btn btn-success mb-3">
+    + Add New Course
+</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Course Name</th>
+            <th>Credits</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model.CoursesList)
+        {
+            <tr>
+                <td>@course.Id</td>
+                <td>@course.CourseName</td>
+                <td>@course.Credits</td>
+                <td>
+                    <a class="btn btn-primary btn-sm"
+                       href="/Courses/Edit?id=@course.Id">Edit</a>
+
+                    <a asp-page="/Courses/Delete" asp-route-id="@course.Id"
+                    class="btn btn-danger btn-sm"> Delete</a>   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

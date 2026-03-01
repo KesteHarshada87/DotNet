@@ -1,0 +1,23 @@
+@page
+@model Student_Managment_System.Pages.Account.LoginModel
+
+<h2>Login</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label>Username</label>
+        <input type="text" name="Username" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label>Password</label>
+        <input type="password" name="Password" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>
+
+@if (Model.ErrorMessage != null)
+{
+    <p class="text-danger">@Model.ErrorMessage</p>
+}

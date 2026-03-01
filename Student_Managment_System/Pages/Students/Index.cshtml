@@ -1,0 +1,63 @@
+@page
+@model Student_Managment_System.Pages.Students.IndexModel
+
+<h2>Students List</h2>
+
+<form method="get" class="mb-3">
+    <input type="text"
+           name="SearchTerm"
+           value="@Model.SearchTerm"
+           placeholder="Search by Name or Email"
+           class="form-control w-25 d-inline" />
+
+    <button type="submit" class="btn btn-primary">
+        Search
+    </button>
+</form>
+
+<a asp-page="/Students/Create" class="btn btn-success mb-3">
+    + Add New Student
+</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Courses</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var student in Model.StudentsList)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Email</td>
+                <td>@student.Courses</td>
+                <td>
+                    <a asp-page="/Students/Edit"
+                       asp-route-id="@student.Id"
+                       class="btn btn-primary btn-sm">
+                        Edit
+                    </a>
+
+                    <a asp-page="/Students/Delete"
+                       asp-route-id="@student.Id"
+                       class="btn btn-danger btn-sm">
+                        Delete
+                    </a>
+
+                    <a asp-page="/Students/AssignCourse"
+                       asp-route-id="@student.Id"
+                       class="btn btn-warning btn-sm">
+                        Assign Courses
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

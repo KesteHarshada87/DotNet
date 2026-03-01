@@ -1,0 +1,26 @@
+@page
+@model Student_Managment_System.Pages.Courses.EditModel
+
+<h2>Edit Course</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label>Course Name</label>
+        <input asp-for="CourseName" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Credits</label>
+        <input asp-for="Credits" type="number" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Update
+    </button>
+
+    <a href="/Courses/Index" class="btn btn-secondary">
+        Cancel
+    </a>
+</form>

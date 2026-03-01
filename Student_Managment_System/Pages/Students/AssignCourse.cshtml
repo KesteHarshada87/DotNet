@@ -1,0 +1,32 @@
+@page
+@model Student_Managment_System.Pages.Students.AssignCourseModel
+
+<h2>Assign Courses to @Model.StudentName</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="StudentId" />
+
+    @foreach (var course in Model.CoursesList)
+    {
+        <div class="form-check">
+            <input class="form-check-input"
+                   type="checkbox"
+                   name="SelectedCourses"
+                   value="@course.Id" />
+
+            <label class="form-check-label">
+                @course.CourseName
+            </label>
+        </div>
+    }
+
+    <br />
+
+    <button type="submit" class="btn btn-success">
+        Save Courses
+    </button>
+
+    <a asp-page="/Students/Index" class="btn btn-secondary">
+        Cancel
+    </a>
+</form>
