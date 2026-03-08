@@ -1,0 +1,11 @@
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp2.1\SolidPrinciples.deps.json
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp2.1\SolidPrinciples.runtimeconfig.json
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp2.1\SolidPrinciples.runtimeconfig.dev.json
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp2.1\SolidPrinciples.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp2.1\SolidPrinciples.pdb
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp2.1\SolidPrinciples.csprojAssemblyReference.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp2.1\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp2.1\SolidPrinciples.AssemblyInfoInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp2.1\SolidPrinciples.AssemblyInfo.cs
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp2.1\SolidPrinciples.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment03\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp2.1\SolidPrinciples.pdb
