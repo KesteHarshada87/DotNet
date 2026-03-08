@@ -1,0 +1,13 @@
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\bin\Debug\netcoreapp2.1\Constructor.deps.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\bin\Debug\netcoreapp2.1\Constructor.runtimeconfig.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\bin\Debug\netcoreapp2.1\Constructor.runtimeconfig.dev.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\bin\Debug\netcoreapp2.1\Constructor.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\bin\Debug\netcoreapp2.1\Constructor.pdb
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\obj\Debug\netcoreapp2.1\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\obj\Debug\netcoreapp2.1\Constructor.AssemblyInfoInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\obj\Debug\netcoreapp2.1\Constructor.AssemblyInfo.cs
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\obj\Debug\netcoreapp2.1\Constructor.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\obj\Debug\netcoreapp2.1\Constructor.pdb
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\obj\Debug\netcoreapp2.1\Constructor.csproj.AssemblyReference.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\obj\Debug\netcoreapp2.1\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Constructor\obj\Debug\netcoreapp2.1\Constructor.genruntimeconfig.cache

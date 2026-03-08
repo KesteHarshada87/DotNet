@@ -1,0 +1,10 @@
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Properties\obj\Debug\netcoreapp2.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Properties\obj\Debug\netcoreapp2.1\Properties.AssemblyInfoInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Properties\obj\Debug\netcoreapp2.1\Properties.AssemblyInfo.cs
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Properties\bin\Debug\netcoreapp2.1\Properties.deps.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Properties\bin\Debug\netcoreapp2.1\Properties.runtimeconfig.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Properties\bin\Debug\netcoreapp2.1\Properties.runtimeconfig.dev.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Properties\bin\Debug\netcoreapp2.1\Properties.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Properties\bin\Debug\netcoreapp2.1\Properties.pdb
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Properties\obj\Debug\netcoreapp2.1\Properties.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Properties\obj\Debug\netcoreapp2.1\Properties.pdb

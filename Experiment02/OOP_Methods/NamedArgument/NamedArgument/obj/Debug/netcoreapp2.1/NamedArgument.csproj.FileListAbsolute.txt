@@ -1,0 +1,11 @@
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\bin\Debug\netcoreapp2.1\NamedArgument.deps.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\bin\Debug\netcoreapp2.1\NamedArgument.runtimeconfig.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\bin\Debug\netcoreapp2.1\NamedArgument.runtimeconfig.dev.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\bin\Debug\netcoreapp2.1\NamedArgument.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\bin\Debug\netcoreapp2.1\NamedArgument.pdb
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\obj\Debug\netcoreapp2.1\NamedArgument.csprojAssemblyReference.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\obj\Debug\netcoreapp2.1\NamedArgument.csproj.CoreCompileInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\obj\Debug\netcoreapp2.1\NamedArgument.AssemblyInfoInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\obj\Debug\netcoreapp2.1\NamedArgument.AssemblyInfo.cs
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\obj\Debug\netcoreapp2.1\NamedArgument.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment02\NamedArgument\NamedArgument\obj\Debug\netcoreapp2.1\NamedArgument.pdb

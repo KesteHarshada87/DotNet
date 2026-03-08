@@ -1,0 +1,10 @@
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Method_Return\bin\Debug\netcoreapp2.1\Method_Return.deps.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Method_Return\bin\Debug\netcoreapp2.1\Method_Return.runtimeconfig.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Method_Return\bin\Debug\netcoreapp2.1\Method_Return.runtimeconfig.dev.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Method_Return\bin\Debug\netcoreapp2.1\Method_Return.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Method_Return\bin\Debug\netcoreapp2.1\Method_Return.pdb
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Method_Return\obj\Debug\netcoreapp2.1\Method_Return.csproj.CoreCompileInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Method_Return\obj\Debug\netcoreapp2.1\Method_Return.AssemblyInfoInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Method_Return\obj\Debug\netcoreapp2.1\Method_Return.AssemblyInfo.cs
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Method_Return\obj\Debug\netcoreapp2.1\Method_Return.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment02\Method_Return\obj\Debug\netcoreapp2.1\Method_Return.pdb

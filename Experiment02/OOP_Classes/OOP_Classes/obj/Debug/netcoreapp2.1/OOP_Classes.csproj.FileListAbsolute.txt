@@ -1,0 +1,11 @@
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\bin\Debug\netcoreapp2.1\OOP_Classes.deps.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\bin\Debug\netcoreapp2.1\OOP_Classes.runtimeconfig.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\bin\Debug\netcoreapp2.1\OOP_Classes.runtimeconfig.dev.json
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\bin\Debug\netcoreapp2.1\OOP_Classes.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\bin\Debug\netcoreapp2.1\OOP_Classes.pdb
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\obj\Debug\netcoreapp2.1\OOP_Classes.csprojAssemblyReference.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\obj\Debug\netcoreapp2.1\OOP_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\obj\Debug\netcoreapp2.1\OOP_Classes.AssemblyInfoInputs.cache
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\obj\Debug\netcoreapp2.1\OOP_Classes.AssemblyInfo.cs
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\obj\Debug\netcoreapp2.1\OOP_Classes.dll
+C:\Users\Harshada\Desktop\DotNet\Experiment02\OOP_Classes\OOP_Classes\obj\Debug\netcoreapp2.1\OOP_Classes.pdb
