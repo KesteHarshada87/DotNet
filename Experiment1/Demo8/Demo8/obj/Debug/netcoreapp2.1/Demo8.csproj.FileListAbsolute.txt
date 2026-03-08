@@ -1,0 +1,10 @@
+C:\Users\Harshada\source\repos\Demo8\Demo8\bin\Debug\netcoreapp2.1\Demo8.deps.json
+C:\Users\Harshada\source\repos\Demo8\Demo8\bin\Debug\netcoreapp2.1\Demo8.runtimeconfig.json
+C:\Users\Harshada\source\repos\Demo8\Demo8\bin\Debug\netcoreapp2.1\Demo8.runtimeconfig.dev.json
+C:\Users\Harshada\source\repos\Demo8\Demo8\bin\Debug\netcoreapp2.1\Demo8.dll
+C:\Users\Harshada\source\repos\Demo8\Demo8\bin\Debug\netcoreapp2.1\Demo8.pdb
+C:\Users\Harshada\source\repos\Demo8\Demo8\obj\Debug\netcoreapp2.1\Demo8.csproj.CoreCompileInputs.cache
+C:\Users\Harshada\source\repos\Demo8\Demo8\obj\Debug\netcoreapp2.1\Demo8.AssemblyInfoInputs.cache
+C:\Users\Harshada\source\repos\Demo8\Demo8\obj\Debug\netcoreapp2.1\Demo8.AssemblyInfo.cs
+C:\Users\Harshada\source\repos\Demo8\Demo8\obj\Debug\netcoreapp2.1\Demo8.dll
+C:\Users\Harshada\source\repos\Demo8\Demo8\obj\Debug\netcoreapp2.1\Demo8.pdb

@@ -1,0 +1,10 @@
+C:\Users\Harshada\source\repos\Demo9\Demo9\obj\Debug\netcoreapp2.1\Demo9.csproj.CoreCompileInputs.cache
+C:\Users\Harshada\source\repos\Demo9\Demo9\obj\Debug\netcoreapp2.1\Demo9.AssemblyInfoInputs.cache
+C:\Users\Harshada\source\repos\Demo9\Demo9\obj\Debug\netcoreapp2.1\Demo9.AssemblyInfo.cs
+C:\Users\Harshada\source\repos\Demo9\Demo9\bin\Debug\netcoreapp2.1\Demo9.deps.json
+C:\Users\Harshada\source\repos\Demo9\Demo9\bin\Debug\netcoreapp2.1\Demo9.runtimeconfig.json
+C:\Users\Harshada\source\repos\Demo9\Demo9\bin\Debug\netcoreapp2.1\Demo9.runtimeconfig.dev.json
+C:\Users\Harshada\source\repos\Demo9\Demo9\bin\Debug\netcoreapp2.1\Demo9.dll
+C:\Users\Harshada\source\repos\Demo9\Demo9\bin\Debug\netcoreapp2.1\Demo9.pdb
+C:\Users\Harshada\source\repos\Demo9\Demo9\obj\Debug\netcoreapp2.1\Demo9.dll
+C:\Users\Harshada\source\repos\Demo9\Demo9\obj\Debug\netcoreapp2.1\Demo9.pdb
