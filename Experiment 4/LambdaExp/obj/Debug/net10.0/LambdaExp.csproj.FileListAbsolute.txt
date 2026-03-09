@@ -1,0 +1,15 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\bin\Debug\net10.0\LambdaExp.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\bin\Debug\net10.0\LambdaExp.deps.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\bin\Debug\net10.0\LambdaExp.runtimeconfig.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\bin\Debug\net10.0\LambdaExp.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\bin\Debug\net10.0\LambdaExp.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\obj\Debug\net10.0\LambdaExp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\obj\Debug\net10.0\LambdaExp.AssemblyInfoInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\obj\Debug\net10.0\LambdaExp.AssemblyInfo.cs
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\obj\Debug\net10.0\LambdaExp.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\obj\Debug\net10.0\LambdaExp.sourcelink.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\obj\Debug\net10.0\LambdaExp.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\obj\Debug\net10.0\refint\LambdaExp.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\obj\Debug\net10.0\LambdaExp.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\obj\Debug\net10.0\LambdaExp.genruntimeconfig.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\LambdaExp\obj\Debug\net10.0\ref\LambdaExp.dll

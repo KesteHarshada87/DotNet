@@ -1,0 +1,15 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\bin\Debug\net10.0\MulticastDeligates.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\bin\Debug\net10.0\MulticastDeligates.deps.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\bin\Debug\net10.0\MulticastDeligates.runtimeconfig.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\bin\Debug\net10.0\MulticastDeligates.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\bin\Debug\net10.0\MulticastDeligates.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\obj\Debug\net10.0\MulticastDeligates.GeneratedMSBuildEditorConfig.editorconfig
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\obj\Debug\net10.0\MulticastDeligates.AssemblyInfoInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\obj\Debug\net10.0\MulticastDeligates.AssemblyInfo.cs
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\obj\Debug\net10.0\MulticastDeligates.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\obj\Debug\net10.0\MulticastDeligates.sourcelink.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\obj\Debug\net10.0\MulticastDeligates.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\obj\Debug\net10.0\refint\MulticastDeligates.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\obj\Debug\net10.0\MulticastDeligates.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\obj\Debug\net10.0\MulticastDeligates.genruntimeconfig.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\MulticastDeligates\obj\Debug\net10.0\ref\MulticastDeligates.dll

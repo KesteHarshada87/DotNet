@@ -1,0 +1,15 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\bin\Debug\net10.0\SortList.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\bin\Debug\net10.0\SortList.deps.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\bin\Debug\net10.0\SortList.runtimeconfig.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\bin\Debug\net10.0\SortList.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\bin\Debug\net10.0\SortList.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\obj\Debug\net10.0\SortList.GeneratedMSBuildEditorConfig.editorconfig
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\obj\Debug\net10.0\SortList.AssemblyInfoInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\obj\Debug\net10.0\SortList.AssemblyInfo.cs
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\obj\Debug\net10.0\SortList.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\obj\Debug\net10.0\SortList.sourcelink.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\obj\Debug\net10.0\SortList.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\obj\Debug\net10.0\refint\SortList.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\obj\Debug\net10.0\SortList.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\obj\Debug\net10.0\SortList.genruntimeconfig.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\SortList\obj\Debug\net10.0\ref\SortList.dll

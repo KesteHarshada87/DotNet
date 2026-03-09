@@ -1,0 +1,15 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\bin\Debug\net10.0\Calculator.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\bin\Debug\net10.0\Calculator.deps.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\bin\Debug\net10.0\Calculator.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\bin\Debug\net10.0\Calculator.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\obj\Debug\net10.0\Calculator.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\obj\Debug\net10.0\Calculator.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 4\Calculator\obj\Debug\net10.0\ref\Calculator.dll
